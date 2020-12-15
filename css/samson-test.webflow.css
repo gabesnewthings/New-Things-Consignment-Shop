@@ -215,6 +215,9 @@ strong {
   border-radius: 2px;
   background-color: rgba(240, 234, 224, 0);
 }
+.item-wrapper.hide {
+display:hidden!important;
+}
 
 .item-wrapper.featured-item {
   height: 700px;
@@ -822,14 +825,13 @@ strong {
     padding-left: 50px;
   }
 
-  .item-wrapper.hide {
+  .item-wrapper {
     width: 48%;
     height: 91vw;
     margin-right: auto;
     margin-left: auto;
     padding-right: 20px;
     padding-left: 20px;
-    display:hidden!important;
 
   }
 
