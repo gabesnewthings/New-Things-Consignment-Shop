@@ -30,6 +30,7 @@ strong {
 .header {
   position: relative;
   height: 100%;
+  margin-top:80px;
   margin-bottom: 100px;
 }
 
@@ -1085,6 +1086,7 @@ strong {
     height: 100%;
     font-size: 5vw;
     line-height: 5vh;
+    width:50%;
   }
 
   .help {
