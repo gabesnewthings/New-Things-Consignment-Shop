@@ -943,6 +943,7 @@ strong {
 @media screen and (max-width: 479px) {
   .header.mobile-hide {
     display: none;
+    margin-top: 0;
   }
 
   .header.snap {
