@@ -474,6 +474,11 @@ display:hidden!important;
   white-space: nowrap;
 }
 
+.pricing.soldout{
+  width:100%;
+  line-height:56px;
+}
+
 .help {
   position: fixed;
   left: auto;
@@ -1039,6 +1044,10 @@ display:hidden!important;
     margin-top: 2vh;
     font-size: 4vw;
     line-height: 4vw;
+  }
+
+  .pricing.soldout {
+    line-height: 40px;
   }
 
   .footer {
