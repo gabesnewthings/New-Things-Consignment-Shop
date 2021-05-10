@@ -31,6 +31,7 @@ strong {
   position: relative;
   height: 100%;
   margin-bottom: 100px;
+  margin-top:15vh
 }
 
 .header.snap {
@@ -557,7 +558,7 @@ strong {
 .animation-container {
   position: relative;
   left: 70px;
-  width: 720px;
+  width: 740px;
   margin-right: auto;
   margin-left: auto;
   background-color: #fefbf2;
